@@ -7,11 +7,7 @@
 <a name="welcome"></a>
 ## Welcome
 
-This COVID-19 tracker provides a simple REST API to retrieve information logged in it's database on items such as cases and tests.
-
-## Features
-
-TBD
+COVID19Tracker.ca provides a simple REST API to allow for the on-demand retrieval of the near real-time Canadian COVID-19 data we collect. This includes data on testing, hospitalizations, criticals, recoveries, fatalities and cases.
 
 ## License
 
